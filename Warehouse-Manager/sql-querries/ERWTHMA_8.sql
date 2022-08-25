@@ -1,1 +1,0 @@
-UPDATE PELATHS SET FOTO = 'C:\Users\KYVOS\Desktop\project\images\1.png' WHERE KOD_PELATH = '1'
